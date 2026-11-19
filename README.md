@@ -1,6 +1,6 @@
   # Kitchen PM2.5 model validation
 
-Each R script directly reads its own CSV, calculates the metrics, prints the results, and writes a result CSV. Only base R is required. There are no plotting commands, user-defined functions, tuning grids, or household-characteristic subgroup analyses.
+Each R script directly reads its own CSV, calculates the metrics, prints the results, and writes a result CSV. Only base R is required. 
 
 ## Run the code
 
